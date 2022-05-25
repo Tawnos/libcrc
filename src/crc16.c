@@ -28,7 +28,7 @@
  * Description
  * -----------
  * The source file src/crc16.c contains routines which calculate the common
- * CRC16 cyclic redundancy check values for an incomming byte string.
+ * CRC16 cyclic redundancy check values for an incoming byte string.
  */
 
 #include <stdbool.h>

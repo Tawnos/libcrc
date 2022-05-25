@@ -28,7 +28,7 @@
  * Description
  * -----------
  * The source file src/crckrmit.c contains routines which calculate the CRC
- * Kermit cyclic redundancy check value for an incomming byte string.
+ * Kermit cyclic redundancy check value for an incoming byte string.
  */
 
 #include <stdbool.h>
